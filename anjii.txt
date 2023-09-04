@@ -1,0 +1,6 @@
+Hello ,
+whats up guys
+kya haal hnn Good morining
+There is some changes with the help of gitbash in that file 
+		that will reflect in the GitHub with the help of 
+								git pull --rebase command(This command will updates all the files in both gitbash as well as GitHub)
